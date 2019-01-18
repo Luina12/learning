@@ -75,9 +75,62 @@ print dodawanie('lalka','pies')"""
 print dzielenie(-5,-6)
 dzielenie= zmienna1+zmienna2
     suma= dzielenie+x"""
-for x in range(100):
+"""for x in range(100):
     if x%3==0 and x%2==0 and x<50:
-        print x
+        print x"""
+
+
+"""produkty = {'S1222': 'sukienka trojkat',
+            'P1222': 'spodnie krata',
+            'X212': 'konsola do gier'}
+igla = 'X2X'
+if igla in produkty:
+    print "znalazlem{0}".format(igla)
+else:
+    print "Brak w magazynie {0}".format(igla)"""
+
+rower= ['cross','romet']
+
+"""print (rower[0])
+print (rower[1])
+rower.append('linka')
+print rower"""
+
+"""zmienna1 = 1
+zmienna2 =2
+kubek= zmienna1
+zmienna1=zmienna2
+zmienna2=kubek
+print zmienna2"""
+"""imie= 'paulina'
+nazwisko= 'jamroz'
+temp=imie
+imie=nazwisko
+nazwisko=temp
+print imie+ ' '+nazwisko
+
+ekstra=[1,17,131,22,45,76]
+temp=0
+
+for x in ekstra:
+    temp= x+temp
+    print temp"""
+"""pies=[1,17,131,11,45,76]
+pies.sort()
+print pies
+print pies[(len(pies)/2)]"""
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
